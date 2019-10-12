@@ -1,0 +1,28 @@
+ 
+      .HubHeader {
+        background-image: url(https://www.transparenttextures.com/patterns/gplay.png) !important;
+      }
+    
+        .HubHeaderItem:hover,
+        .HubHeaderItem.is-active {
+          color: #e3342f;
+        }
+      
+      .HubBlock-tab.active {
+        border-color: #e3342f !important;
+      }
+
+      .markdown-body a {
+        color: #e3342f;
+      }
+
+      .HubMain .text-active,
+      .HubMain .hover\:text-active:hover,
+      .HubMain .HubBlock-tab:hover {
+        color: #e3342f !important;
+      }
+    
+      .HubMain .ui.secondary.button {
+        background-color: #f6993f;
+      }
+     
